@@ -32,6 +32,7 @@ loader reverse engineering, and live PC checks.
 - [Anti-forensics](techniques/anti-forensics.md)
 - [COM / CLSID execution](techniques/com-clsid-execution.md)
 - [Forensic artifacts — proving execution](techniques/forensic-artifacts.md)
+- [Prefetch deep dive](techniques/prefetch-deep-dive.md)
 - [AmCache & spoofed install date](techniques/amcache-install-date.md)
 - [USB device history](techniques/usb-device-history.md)
 - [DMA cheat-device detection](techniques/dma-card-detection.md)
