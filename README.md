@@ -48,5 +48,11 @@ loader reverse engineering, and live PC checks.
 - [MISP vs OpenCTI vs Neo4j](platforms/misp-opencti-neo4j.md)
 - [Tooling](tooling/notes.md)
 
-## Case write-up template
-See [`cases/_TEMPLATE.md`](cases/_TEMPLATE.md).
+### Reference
+- [MITRE ATT&CK index](mitre-attack-index.md): techniques across all cases
+- [Glossary](glossary.md)
+- [Resources](resources.md): tools, references, learning
+
+## About
+- [Disclaimer](DISCLAIMER.md) · [License (CC BY 4.0)](LICENSE.md) · [Contributing](CONTRIBUTING.md)
+- Case write-up template: [`cases/_TEMPLATE.md`](cases/_TEMPLATE.md)
