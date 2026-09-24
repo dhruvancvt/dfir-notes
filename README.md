@@ -48,6 +48,10 @@ loader reverse engineering, and live PC checks.
 - [MISP vs OpenCTI vs Neo4j](platforms/misp-opencti-neo4j.md)
 - [Tooling](tooling/notes.md)
 
+### Process
+- [Incident response lifecycle](process/incident-response-lifecycle.md)
+- [Evidence handling & chain of custody](process/evidence-handling.md)
+
 ### Reference
 - [MITRE ATT&CK index](mitre-attack-index.md): techniques across all cases
 - [Glossary](glossary.md)
